@@ -22,6 +22,11 @@ As principais fontes utilizadas foram:
 
 ---
 
+## 🎧 Recursos em Áudio
+[Ouvir: Do zero ao emprego com Python](Do_zero_ao_emprego_com_Python.mp4)
+
+---
+
 ## 🤖 Engenharia de Prompts e "Cicatrizes"
 Durante os testes no NotebookLM, foram elaborados prompts estratégicos para extrair explicações claras e aplicáveis:
 
