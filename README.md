@@ -17,6 +17,11 @@ As principais fontes utilizadas foram:
 
 ---
 
+## 🎥 Vídeo de Apoio
+[Assistir ao vídeo: Sua Jornada para o Python](Sua_Jornada_para_o_Python.mp4)
+
+---
+
 ## 🤖 Engenharia de Prompts e "Cicatrizes"
 Durante os testes no NotebookLM, foram elaborados prompts estratégicos para extrair explicações claras e aplicáveis:
 
