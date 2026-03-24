@@ -68,5 +68,21 @@ Esse registro mostra o raciocínio e o troubleshooting feito para chegar em resp
 ---
 
 ## 🚀 Como usar este repositório
-Este repositório foi criado para apoiar estudos de Python voltados à Ciência de Dados.  
-Você pode reutilizar os prompts, consultar os resumos e expandir o glossário conforme avança nos estudos.
+
+Este repositório foi criado para apoiar estudos de **Python voltados à Ciência de Dados**, reunindo materiais em diferentes formatos para facilitar o aprendizado.
+
+### 📖 Conteúdo escrito
+- Consulte os **resumos estruturados** e o **glossário** para revisar conceitos fundamentais.
+- Explore os **prompts reutilizáveis** para praticar interações com IA e reforçar o conteúdo.
+
+### 🎥 Recursos em vídeo
+- Assista ao vídeo de apoio: [Sua Jornada para o Python](Sua_Jornada_para_o_Python.mp4)
+
+### 🎧 Recursos em áudio
+- Ouça o áudio motivacional: [Do zero ao emprego com Python](Do_zero_ao_emprego_com_Python.m4a)
+
+### 🔎 Como aproveitar melhor
+- Use os vídeos e áudios como complemento às leituras.
+- Reaplique os prompts para criar quizzes, resumos e exemplos práticos.
+- Expanda o glossário com novos termos conforme avança nos estudos.
+- Utilize este repositório como portfólio, mostrando sua evolução no aprendizado de Python para Ciência de Dados.
